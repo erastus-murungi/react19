@@ -2,12 +2,6 @@
 
 import styled from "@emotion/styled";
 import { CardsCreateAccount } from "@/app/components/create-account";
-import {
-  InputOTP,
-  InputOTPGroup,
-  InputOTPSeparator,
-  InputOTPSlot,
-} from "@/components/ui/input-otp";
 
 const CentrallyPlacedDiv = styled.div`
   display: flex;
